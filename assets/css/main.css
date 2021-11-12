@@ -9,6 +9,13 @@
   margin-right: auto;
 }
 
+.insummary li {
+  list-style: none;
+}
+.insummary ul {
+  margin-bottom: 2rem;
+}
+
 html,
 body,
 div,
