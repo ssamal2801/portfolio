@@ -9,8 +9,12 @@
   margin-right: auto;
 }
 
+.experience li,
+td {
+  text-align: left;
+}
 .insummary li {
-  list-style: none;
+  text-align: left;
 }
 .insummary ul {
   margin-bottom: 2rem;
